@@ -5,6 +5,7 @@
 - 🔭 Working on Javascript
 - 🌱 Learning how to create a website
 - 👯 My dream is to be Discord Partner Server Owner
+- My favorite cartoons: Star vs The Forces of Evil, My Little Pony, Gravity Falls, Amphibia, The Powerpuff Girls and The Loud House 
 
 <div align="center">
   <a href="https://github.com/AquillesdaAmizade">

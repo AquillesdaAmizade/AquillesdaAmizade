@@ -4,7 +4,7 @@
 
 - 🔭 Working on Javascript
 - 🌱 Learning how to create a website
-- 👯 I’m looking to collaborate on Discord Developers
+- 👯 My dream is to be Discord Partner Server Owner
 
 <div align="center">
   <a href="https://github.com/AquillesdaAmizade">

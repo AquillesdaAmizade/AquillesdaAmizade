@@ -23,6 +23,6 @@
   
   ##
   ![Snake animation](https://github.com/AquillesdaAmizade/AquillesdaAmizade/blob/output/github-contribution-grid-snake.svg)
-  [![Discord Presence](https://lanyard.cnrad.dev/api/818478692962402314?idleMessage=%22Fazendo%20Nada%20Por%20Enquanto%22&borderRadius=25px)](https://discord.com/users/599043071669305374)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/599043071669305374?idleMessage=%22Fazendo%20Nada%20Por%20Enquanto%22&borderRadius=25px)](https://discord.com/users/599043071669305374)
 
   
